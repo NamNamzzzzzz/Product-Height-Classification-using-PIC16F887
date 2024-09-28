@@ -16,7 +16,7 @@
 - Màn hình LCD hiển thị số lượng sản phẩm đã được phân loại theo từng loại.
 ![image](https://github.com/user-attachments/assets/2ebaf696-33c3-4001-8040-bb610bc14f41)
 4. Chương trình chính
-- Chương trình chính có tên "TEST_LCD_SERVO_DONE" nằm bên trên, được viết bằng ngôn ngữ C dựa trên MPLAB XC8 Complier.
+- Chương trình chính có tên "TEST_LCD_SERVO_DONE" nằm bên trên, được viết bằng ngôn ngữ C dựa trên trình biên dịch MPLAB XC8 Complier.
 5. Kết quả đạt được
   
   Kết quả thử nghiệm cho thấy hệ thống phân loại sản phẩm đạt được độ chính xác trung bình 90%. Tuy nhiên, vẫn còn một số yếu tố ảnh hưởng đến độ ổn định của hệ thống, bao gồm:
