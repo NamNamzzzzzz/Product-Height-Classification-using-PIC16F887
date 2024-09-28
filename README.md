@@ -18,7 +18,8 @@
 4. Chương trình chính
 - Chương trình chính có tên "TEST_LCD_SERVO_DONE" nằm bên trên, được viết bằng ngôn ngữ C dựa trên MPLAB XC8 Complier.
 5. Kết quả đạt được
-Kết quả thử nghiệm cho thấy hệ thống phân loại sản phẩm đạt được độ chính xác trung bình 90%. Tuy nhiên, vẫn còn một số yếu tố ảnh hưởng đến độ ổn định của hệ thống, bao gồm:
+  
+  Kết quả thử nghiệm cho thấy hệ thống phân loại sản phẩm đạt được độ chính xác trung bình 90%. Tuy nhiên, vẫn còn một số yếu tố ảnh hưởng đến độ ổn định của hệ thống, bao gồm:
 - Tốc độ băng tải: Tốc độ băng tải hiện tại chưa được tối ưu, dẫn đến tình trạng sản phẩm chồng chéo, gây khó khăn cho cảm biến trong việc xác định chiều cao.
 - Thời gian phản hồi của servo: Thời gian servo di chuyển để đưa sản phẩm đến vị trí phân loại chưa đủ nhanh, đặc biệt khi có nhiều sản phẩm cần xử lý liên tiếp.
 - Chương trình chính: Chương trình chưa có cơ chế ngắt ngoài linh hoạt để xử lý các tình huống bất thường, ví dụ như khi có quá nhiều sản phẩm cùng lúc.
