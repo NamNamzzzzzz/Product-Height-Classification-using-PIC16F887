@@ -8,3 +8,4 @@
 - Động cơ servo SG90: Kích hoạt khi cảm biến siêu ânm nhận tính hiệu để gạt sản phẩm.
 - Màn hình LCD: Hiển thị thông tin về số lượng sản phẩm đã được phân loại.
 - Nguồn cấp: Cung cấp điện năng cho toàn bộ hệ thống.
+![image](https://github.com/user-attachments/assets/1fba2bcc-f680-4758-b27e-d01cf3ad7fb5)
