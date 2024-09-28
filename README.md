@@ -9,3 +9,13 @@
 - Màn hình LCD: Hiển thị thông tin về số lượng sản phẩm đã được phân loại.
 - Nguồn cấp: Cung cấp điện năng cho toàn bộ hệ thống.
 ![image](https://github.com/user-attachments/assets/1fba2bcc-f680-4758-b27e-d01cf3ad7fb5)
+3. Nguyên lý hoạt động
+- Sản phẩm di chuyển trên băng tải và đi qua các cảm biến.
+- Cảm biến có trên 3 mức chiều cao của sản phẩm và gửi tín hiệu về vi điều khiển.
+- Vi điều khiển xử lý tín hiệu, xác định loại sản phẩm và điều khiển động cơ tương ứng để đưa sản phẩm đến vị trí phân loại.
+- Màn hình LCD hiển thị số lượng sản phẩm đã được phân loại theo từng loại.
+![image](https://github.com/user-attachments/assets/2ebaf696-33c3-4001-8040-bb610bc14f41)
+![image](https://github.com/user-attachments/assets/3fcbc033-a1a0-4423-a950-d36e0bd968ef)
+![image](https://github.com/user-attachments/assets/067c74ba-39ee-423d-ae07-033c26557762)
+
+
